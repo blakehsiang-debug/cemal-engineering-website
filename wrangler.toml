@@ -1,0 +1,13 @@
+# Example wrangler.toml for Cemal Engineering website
+# Place this file in the root of your deployment directory
+
+name = "cemal-engineering"
+compatibility_date = "2025-01-01"
+
+# Pages configuration
+[site]
+bucket = "."
+
+# You can also deploy via:
+# npx wrangler pages deploy .
+# Or upload directly in Cloudflare Dashboard

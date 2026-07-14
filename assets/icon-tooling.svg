@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Mold tooling icon</title>
+  <rect x="8" y="8" width="48" height="48" rx="10" fill="#f7f5f0" stroke="#101820" stroke-opacity=".16"/>
+  <path d="M18 21h14v22H18V21Zm14 0h14v22H32V21Z" fill="none" stroke="#101820" stroke-width="3"/>
+  <path d="M32 21v22" stroke="#0e5bd8" stroke-width="3"/>
+  <path d="M23 32h18" stroke="#4ec6df" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="32" cy="32" r="5" fill="#e8a332"/>
+</svg>

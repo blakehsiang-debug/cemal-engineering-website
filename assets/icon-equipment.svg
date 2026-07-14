@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Equipment icon</title>
+  <rect x="8" y="8" width="48" height="48" rx="10" fill="#f7f5f0" stroke="#101820" stroke-opacity=".16"/>
+  <path d="M20 18h24v10H20V18Zm4 10h16v18H24V28Z" fill="none" stroke="#101820" stroke-width="3"/>
+  <path d="M29 34h6v12h-6V34Z" fill="#0e5bd8"/>
+  <path d="M20 46h24" stroke="#e8a332" stroke-width="4" stroke-linecap="round"/>
+</svg>

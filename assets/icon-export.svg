@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Export delivery icon</title>
+  <rect x="8" y="8" width="48" height="48" rx="10" fill="#f7f5f0" stroke="#101820" stroke-opacity=".16"/>
+  <path d="M18 26h20v18H18V26Zm20 6h8l4 5v7H38V32Z" fill="none" stroke="#101820" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="25" cy="46" r="3" fill="#0e5bd8"/>
+  <circle cx="45" cy="46" r="3" fill="#0e5bd8"/>
+  <path d="M26 20h18m0 0-5-5m5 5-5 5" stroke="#e8a332" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

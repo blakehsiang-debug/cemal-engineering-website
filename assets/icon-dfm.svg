@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">DFM review icon</title>
+  <rect x="8" y="8" width="48" height="48" rx="10" fill="#f7f5f0" stroke="#101820" stroke-opacity=".16"/>
+  <path d="M18 42V20h28v22H18Z" fill="none" stroke="#0e5bd8" stroke-width="3"/>
+  <path d="M24 32h16M32 24v16" stroke="#4ec6df" stroke-width="3" stroke-linecap="round"/>
+  <path d="M44 18l4-4M46 46l4 4M18 46l-4 4" stroke="#e8a332" stroke-width="3" stroke-linecap="round"/>
+</svg>
